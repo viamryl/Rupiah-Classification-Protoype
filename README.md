@@ -7,4 +7,6 @@
   <p align="center"><img src="https://github.com/user-attachments/assets/cbfbaddc-d80f-4540-92bc-2ad85b855818" width="800" /></p>
 - Running your program!
 
+## App Preview
+<p align="center"><img src="https://github.com/user-attachments/assets/6a2b7237-e238-4b14-b3a1-d9ad6bd1978d" width="800" />
 
