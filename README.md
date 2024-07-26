@@ -2,7 +2,7 @@
 This application is a prototype of an image classification model for classifying Indonesian Rupiah currency. This prototype requires users to capture an image of the currency, and the classification output is provided in both text and Indonesian language audio.
 
 
-## Follow these steps below
+## Follow these steps below (Skip step 1-5 if you want to use default model from author)
 - Clone this repository
 - Open this project on Android Studio
 - Open main menu -> file -> other ->  tensorflow lite model
